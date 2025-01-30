@@ -1,0 +1,4 @@
+.env
+1.ipynb
+vectorstore/db_faiss/index.faiss
+vectorstore/db_faiss/index.pkl
